@@ -1,0 +1,17 @@
+.Layouts-section{
+    background-color:#ffffff;
+    
+}
+.Layouts-section-title h1 {
+    color:  #922c88;
+}
+.Layouts-section-title{
+    padding-top: 6rem;
+}
+.layout-title{
+    font-size: 1.15rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #8f8f8f;
+}

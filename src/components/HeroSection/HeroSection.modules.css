@@ -1,0 +1,52 @@
+
+.home-row{
+    padding-top: 120px;
+  }
+    
+   .hero-section{
+      background-color: #922c88;;
+      border-bottom-right-radius: 69%;
+     height: 110vh;
+  
+    }
+    .hero-section-title p{
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 300;
+      
+      line-height: 1.6rem;
+      color: #fff;
+    }
+    .box-title{
+      margin-bottom: 4rem;
+      color: #8f8f8f;
+    }
+    .home-hero1{
+      width: 100%;
+      margin-right: -150px;
+    }
+    .flex-container {
+      margin-top: 3rem;
+    display: flex;
+    gap: 29px;
+   }
+  
+    .box {
+   text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    background: #fff;
+  
+    }
+    i.large-icon {
+      font-size: 60px;
+      line-height: 110px;
+      color: #922c88;
+      display: initial;
+  }
+  .box-text{
+    font-size: 1rem;
+    line-height: 1.6rem;
+    color: #8f8f8f;
+  }
+    
+  

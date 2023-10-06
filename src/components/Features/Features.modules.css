@@ -1,0 +1,19 @@
+.Features-section{
+    background-color: bisque;
+    border-top-right-radius: 44%;
+}
+ h1 {
+    color:  #922c88;
+}
+.Features-section-title{
+    padding-top: 6rem;
+}
+.left-part-title h5{
+    color:  #922c88;
+}
+.left-part-title{
+    margin-top: 160px;
+}
+.f-img{
+    margin-left: -190px;   
+}

@@ -1,0 +1,22 @@
+.btn-secondary {
+    background-color: #4556ac;
+    border-color: #4556ac;
+    color: #fff;
+}
+.btn-xl {
+    line-height: 1.5;
+    font-weight: 700;
+    letter-spacing: .05rem;
+    padding: 1rem 3.5rem 0.9rem;
+}
+
+.btn {
+    border-radius: 50px;
+    outline: initial!important;
+    box-shadow: none!important;
+    font-size: .8rem;}
+    
+    .enjoy-title{
+        margin-bottom: 7rem;
+        margin-top: 8rem;
+    }
