@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rajshekharwd/rpage/static/css/main.6ef9d5d6.css",
+    "main.js": "/rajshekharwd/rpage/static/js/main.a405f9b7.js",
+    "index.html": "/rajshekharwd/rpage/index.html",
+    "main.6ef9d5d6.css.map": "/rajshekharwd/rpage/static/css/main.6ef9d5d6.css.map",
+    "main.a405f9b7.js.map": "/rajshekharwd/rpage/static/js/main.a405f9b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef9d5d6.css",
+    "static/js/main.a405f9b7.js"
+  ]
+}
